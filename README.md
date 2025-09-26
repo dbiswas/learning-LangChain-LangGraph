@@ -4,7 +4,7 @@ This project respository contains all sample codes / Exercise labs with solution
 ---
 
 ## Getting Started
-_Quick instructions to set up and run the project._
+_Quick instructions to set up and run the project._<BR>
 _A brief summary of the project's purpose, goals, and main features._
 _A brief summary of the project's purpose, goals, and main features._
 
