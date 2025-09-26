@@ -3,11 +3,11 @@ This project respository contains all sample codes / Exercise labs with solution
 
 ## Project Description
 
-A brief summary of the project's purpose, goals, and main features._
-The topics covered in this course include:
-AI Agents
-Agentic AI
-AI Engineering
+### A brief summary of the project's purpose, goals, and main features.
+### The topics covered in this course include:
+### AI Agents
+### Agentic AI
+### AI Engineering
 LangChain / LangGraph
 LLM + GenAI History
 Prompt Engineering: Few shots prompting, Chain of Thought, ReAct prompting
