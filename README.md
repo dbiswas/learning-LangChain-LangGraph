@@ -5,35 +5,35 @@ This project respository contains all sample codes / Exercise labs with solution
 _A brief summary of the project's purpose, goals, and main features._
 
 The topics covered in this course include:
-    _AI Agents
-    _Agentic AI
-    AI Engineering
-    LangChain / LangGraph
-    LLM + GenAI History
-    Prompt Engineering: Few shots prompting, Chain of Thought, ReAct prompting
-    Context Engineering
-    Chat Models
-    Open Source Models
-    Prompts, PromptTemplates, langchainub
-    Output Parsers, Pydantic Output Parsers
-    Chains: create_retrieval_chain, create_stuff_documents_chain
-    Agents, Custom Agents, Python Agents, CSV Agents, Agent Routers
-    OpenAI Functions, Tool Calling
-    Tools, Toolkits
-    Memory
-    Vectorstores (Pinecone, FAISS, Chroma)
-    RAG (Retrieval Augmentation Generation)
-    DocumentLoaders, TextSplitters
-    Streamlit (for UI), Copilotkit
-    LCEL
-    LangSmith
-    LangGraph
-    FireCrawl
-    GIST of Cursor IDE 
-    Cursor Composter
-    Curser Chat
-    MCP - Model Context Protocol & LangChain Ecosystem
-    Introduction To LangGraph
+_AI Agents
+_Agentic AI
+AI Engineering
+LangChain / LangGraph
+LLM + GenAI History
+Prompt Engineering: Few shots prompting, Chain of Thought, ReAct prompting
+Context Engineering
+Chat Models
+Open Source Models
+Prompts, PromptTemplates, langchainub
+Output Parsers, Pydantic Output Parsers
+Chains: create_retrieval_chain, create_stuff_documents_chain
+Agents, Custom Agents, Python Agents, CSV Agents, Agent Routers
+OpenAI Functions, Tool Calling
+Tools, Toolkits
+Memory
+Vectorstores (Pinecone, FAISS, Chroma)
+RAG (Retrieval Augmentation Generation)
+DocumentLoaders, TextSplitters
+Streamlit (for UI), Copilotkit
+LCEL
+LangSmith
+LangGraph
+FireCrawl
+GIST of Cursor IDE 
+Cursor Composter
+Curser Chat
+MCP - Model Context Protocol & LangChain Ecosystem
+Introduction To LangGraph
 ---
 
 ## Technology Stack
