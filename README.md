@@ -5,8 +5,8 @@ This project respository contains all sample codes / Exercise labs with solution
 _A brief summary of the project's purpose, goals, and main features._
 
 The topics covered in this course include:
-    AI Agents
-    Agentic AI
+    _AI Agents
+    _Agentic AI
     AI Engineering
     LangChain / LangGraph
     LLM + GenAI History
