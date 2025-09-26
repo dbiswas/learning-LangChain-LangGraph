@@ -3,7 +3,7 @@ This project respository contains all sample codes / Exercise labs with solution
 
 ## Project Description
 
-#### A brief summary of the project's purpose, goals, and main features.
+###### A brief summary of the project's purpose, goals, and main features.
 #### The topics covered in this course include:
 ### AI Agents
 ### Agentic AI
